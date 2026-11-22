@@ -58,6 +58,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [YouTube Data API](https://developers.google.com/youtube/v3) — Official API for accessing YouTube data.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Command-line YouTube video downloader.
 - [pytube](https://github.com/pytube/pytube) — Python library for downloading YouTube content.
+- [YouTubeVideoToMP4](https://youtubevideotomp4.com) — Browser-based tool for converting YouTube videos to MP4, no install required.
 
 ## Learning & Courses
 
